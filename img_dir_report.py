@@ -1,4 +1,4 @@
-# python (dir location)/img_data.py
+# python (dir location)/img_dir_report.py
 
 import os
 from PIL import Image
