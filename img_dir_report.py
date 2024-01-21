@@ -44,7 +44,6 @@ def tiff_files_report():
 
 
 def jpg_files_report():
-    print('---------')
     for jpg_image in os.listdir(DIR_PATH):
         if jpg_image.endswith((".jpg", ".JPG", ".JPEG")):
 
